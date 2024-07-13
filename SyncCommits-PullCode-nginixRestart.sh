@@ -1,6 +1,6 @@
 #! /bin/bash
 
-python3 autopull.py
+python3 SyncCommits-PullCode.py
 
 sleep 10
 
