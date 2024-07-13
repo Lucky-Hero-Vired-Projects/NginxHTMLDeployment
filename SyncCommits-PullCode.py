@@ -3,7 +3,7 @@ import subprocess
 from github import Github, GithubException
 
 #Configuration
-GITHUB_TOKEN = "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" 
+GITHUB_TOKEN = "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" 
 GITHUB_REPO = "Lucky-Hero-Vired-Projects/NginxHTMLDeployment"
 LOCAL_REPO_PATH = "/usr/share/nginx/NginixHTMLPYTHONDeployment"
 
