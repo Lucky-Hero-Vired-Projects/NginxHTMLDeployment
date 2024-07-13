@@ -1,10 +1,10 @@
 import os
 import subprocess
-from github import Github
+from github import Github, GithubException
 
 #Configuration
-GITHUB_TOKEN = "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" 
-GITHUB_REPO = "Lucky-Hero-Vired-Projects/NginixHTMLPYTHONDeployment"
+GITHUB_TOKEN = "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" 
+GITHUB_REPO = "Lucky-Hero-Vired-Projects/NginxHTMLDeployment"
 LOCAL_REPO_PATH = "/usr/share/nginx/NginixHTMLPYTHONDeployment"
 
 # Initialize GitHub API client
